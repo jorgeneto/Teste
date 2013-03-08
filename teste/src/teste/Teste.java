@@ -8,5 +8,6 @@ public class Teste {
        
    
     System.out.println("fork");
+    System.out.println("fork WHOWHOWHOA");
     }
 }
