@@ -9,5 +9,6 @@ public class Teste {
     System.out.println("WHOHAWHOLAWHOA");
     System.out.println("fork");
     System.out.println("fork WHOWHOWHOA");
+    System.out.println("hahahahahaha");
     }
 }
